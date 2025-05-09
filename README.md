@@ -12,7 +12,7 @@
 
 <div align="justified">
   
-A Car rental is a system that can be used for taking rent car for specified time period. With the increasing complexity of current vehicle computer systems, the user is more and more naïve with what goes on under the hood of the car. The minimal mechanical savvy of most drivers makes them unnecessarily panic anytime their car check-engine light suddenly turns on. This system increases customer retention and simplify vehicle and staff management. 
+A Car renting is an application that can be used for taking rent car for specified time period. With the increasing complexity of current vehicle computer systems, the user is more and more naïve with what goes on under the hood of the car. The minimal mechanical savvy of most drivers makes them unnecessarily panic anytime their car check-engine light suddenly turns on. This system increases customer retention and simplify vehicle and staff management. 
 Aims and Objectives :-
  - To produce a Java based database connected (JDBC) software system<br>
 that allow customer data entry and reserve a particular model of car 
