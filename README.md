@@ -1,17 +1,5 @@
 # CAR-RENTING-Application :star_struck: :date: :credit_card: :computer: :car:
 
-[![Generic badge](https://img.shields.io/badge/database-management%20system-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sql-8.0-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mysql%20connector%20jar-external%20library-critical)](https://shields.io/)
-
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100070395300810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
-<a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
-</p>
-
-## CAR RENTAL SYSTEM JDBC DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=6LrU2B80nh8&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=8">Click here to watch</a>
-
-## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
-
 ## Options in this system :point_down:
 
  - Adding Customers<br>
