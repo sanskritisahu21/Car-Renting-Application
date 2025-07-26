@@ -8,7 +8,7 @@ public class ConnectionProvider {
             //LOAD THE DRIVER
             Class.forName("com.mysql.jdbc.Driver");
             //CREATE THE CONNECTION
-            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/garage_records","root","BISWA_LOVES_CODING");
+            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/garage_records","root","Sans_LOVES_CODING");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
